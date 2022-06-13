@@ -1,0 +1,2 @@
+preproInsulin = "malwmrllpllallalwgpdpaaafvnqhlcgshlvealylvcgergffytpktr"
+print(preproInsulin)
